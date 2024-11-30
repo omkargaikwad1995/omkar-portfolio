@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.png";
 import close from "./cross.png";
+import omkarLogo from "./omkar_logo.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,18 +21,22 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import award from "./company/award.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import glovve from "./company/glovve_logo.png";
 import tesla from "./company/tesla.png";
+import starbucks from "./company/starbucks.png";
+import comsense from "./company/comsense_consulting_logo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  omkarLogo,
+  award,
   backend,
   creator,
   mobile,
@@ -54,7 +59,9 @@ export {
   threejs,
   meta,
   shopify,
+  glovve,
   starbucks,
+  comsense,
   tesla,
   carrent,
   jobit,
