@@ -29,6 +29,8 @@ import glovve from "./company/glovve_logo.png";
 import tesla from "./company/tesla.png";
 import starbucks from "./company/starbucks.png";
 import comsense from "./company/comsense_consulting_logo.png";
+import socialgram from "./company/project_social.png"
+import sagarbabar from "./company/sagarbabar.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -62,6 +64,8 @@ export {
   glovve,
   starbucks,
   comsense,
+  socialgram,
+  sagarbabar,
   tesla,
   carrent,
   jobit,

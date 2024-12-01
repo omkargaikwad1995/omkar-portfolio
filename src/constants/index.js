@@ -26,6 +26,8 @@ import {
     tripguide,
     threejs,
     award,
+    socialgram,
+    sagarbabar,
   } from "../assets";
   
   export const navLinks = [
@@ -201,16 +203,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "SocialGram",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a social web application similar to instagram.For backend implemented appwrite which provide authentication system and structurised database",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "appwrite",
           color: "green-text-gradient",
         },
         {
@@ -218,37 +220,37 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: socialgram,
+      source_code_link: "https://github.com/omkargaikwad1995/socialgram",
     },
     {
-      name: "Job IT",
+      name: "SagarBabar",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Created a fully responsive portfolio website using React.js, Tailwind CSS, and Framer Motion.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "tailwind",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "emailjs",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: sagarbabar,
+      source_code_link: "https://sagar-babar.vercel.app/",
     },
     {
-      name: "Trip Guide",
+      name: "happydemo",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
@@ -256,7 +258,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "scss",
           color: "pink-text-gradient",
         },
       ],
