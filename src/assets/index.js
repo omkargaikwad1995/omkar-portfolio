@@ -31,6 +31,7 @@ import starbucks from "./company/starbucks.png";
 import comsense from "./company/comsense_consulting_logo.png";
 import socialgram from "./company/project_social.png"
 import sagarbabar from "./company/sagarbabar.png"
+import award2024 from "./company/award2024.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -39,6 +40,7 @@ import tripguide from "./tripguide.png";
 export {
   omkarLogo,
   award,
+  award2024,
   backend,
   creator,
   mobile,
